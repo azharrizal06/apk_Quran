@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "773975208416",
+    "project_id": "login2-f370f",
+    "storage_bucket": "login2-f370f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773975208416:android:d73819d5c23be724e47b85",
+        "android_client_info": {
+          "package_name": "com.azhar.login2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773975208416-1rklrscrerrauug2k61ab38k1uup9t15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.azhar.login2",
+            "certificate_hash": "18762d06ed1606014b71b3ce963fb9318c10ce92"
+          }
+        },
+        {
+          "client_id": "773975208416-5mv68rpoeph49138791l329som8eldie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMS0F1izUpRBLQFY8rg9cM5ropCzNN7cI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773975208416-1a628eash3u5sjgra2bbl9hqf0tm8obe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773975208416-7v5g6hko56ak59upgvtsqes6bdfc25fc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.azhar.login2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
